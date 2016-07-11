@@ -87,6 +87,7 @@ _Server_
 
 I'm always up for trying new things, a few of my current interests are:
 
+* Traveling
 * Rugby
 * Yoga
 * Meditation
