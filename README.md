@@ -25,7 +25,7 @@ Built over two weeks by a group of four, this project is a Mobile app (iOS and A
 
 #### VoiceAlarm
 
-VoiceAlarm is my current hobby project in progress - it is a mobile app that aims to wake users up in the morning with prerecorded voice notes and reminders. It stemmed from my desire to build, experience and learn as much as I can and keep my skills honed whilst also creating something that I'd be more than happy to use myself.
+VoiceAlarm is my current hobby project in progress - it is a mobile app that aims to wake users up in the morning with prerecorded voice notes and reminders. It stems from my desire to build, experience and learn as much as I can and keep my skills honed whilst also creating something that I'd be more than happy to use myself.
 
 #### Technologies used:
 * Ionic
@@ -40,7 +40,7 @@ VoiceAlarm is my current hobby project in progress - it is a mobile app that aim
 I am used to thriving in an environment that is dictated by entirely new technologies, tools, languages and concepts. Through being immersed in a high pressure environment, I have come to be extremely comfortable with the discomfort of unfamiliarity. One of my greatest strengths is my ability to constantly engage, learn and adapt.
 
 **Previous Experience:**
-Having worked in service to fund my travels across five different continents, being adaptable was possibly one of my most valuable traits. From cancelled coaches and lost valuables in Peru to asking for directions in broken Thai on motorbikes in Thailand, I found that learning quickly and adapting to change is absolutely paramount. After two years of near constant change, I have grown and developed this powerful trait hugely.
+Having worked in service to fund my travels across five different continents, being adaptable is possibly one of my most valuable traits. From cancelled coaches and lost valuables in Peru to asking for directions in broken Thai on motorbikes in Thailand, I found that learning quickly and adapting to change is absolutely paramount. After two years of near constant change, I have grown and developed this powerful trait hugely.
 
 #### A good communicator and pair programmer
 
