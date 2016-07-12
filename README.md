@@ -26,7 +26,7 @@ Built over two weeks by a group of four, this project is a Mobile app (iOS and A
 
 ### What's the weather?
 
-A project that I built to familiarize myself with JavaScript, JSON and jQuery focusing on front-end, interactive web pages and alternatives to 'raw' JavaScript. The project utilizes the jQuery library to manipulate the Document Object Model along with a jQuery AJAX call to the Open Weather Map API to get weather information about specific cities to display to the user.
+A project that I built to familiarize myself with JavaScript, JSON and jQuery focusing on front-end, interactive web pages and alternatives to 'raw' JavaScript. The project utilizes the jQuery library to manipulate the Document Object Model along with a jQuery AJAX call to the Open Weather Map API in order to get weather information about specific cities to display to the user.
 
 #### Technologies used:
 * JavaScript
@@ -66,7 +66,7 @@ Having worked in service to fund my travels across five different continents, be
 
 **Previous Experience:** Firefighting is a huge part of the service industry. Being the only experienced Server on the floor until closing, and having to deal with double-bookings, customer complaints and huge dinner rushes has taught me to keep a cool head in the face of adversity.
 
-#### Technical Skills
+### Technical Skills
 
 **Programming Languages/Tools:** JavaScript, HTML, CSS, PostgreSQL, JSON, Ruby, bash
 
@@ -76,7 +76,7 @@ Having worked in service to fund my travels across five different continents, be
 
 **Other:** Git/Github, Model-View-Controller (MVC) Architectural pattern (in Sinatra, Rails and Angular)
 
-**I'm always looking to learn new things, and I'm currently in the process of teaching myself:**
+**I'm currently in the process of teaching myself:**
 * ASP.NET
 * C#
 * Visual basic
@@ -95,7 +95,7 @@ Valuable skills I gained:
 
 Languages and frameworks studied:
 * Ruby and Rails
-* JavaScript, Node.js and AngularJS
+* JavaScript, Node.js, AngularJS
 * Rspec, Jasmine, Capybara, Karma, Protractor
 * PSQL, ActiveRecord
 * HTML, CSS
