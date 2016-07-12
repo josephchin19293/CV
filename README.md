@@ -7,23 +7,34 @@ I am an enthusiastic Junior Web Developer and Makers Academy graduate with a sha
 
 ### My Projects
 
-#### Rails_cleaner: [repo](https://github.com/josephchin19293/rails_cleaner)
+### Rails_cleaner: [repo](https://github.com/josephchin19293/rails_cleaner)
 
 A Ruby Gem with command line interface that deletes unused and often useless coffeescript and scss files that get automatically generated with Rails projects.
 
 Written in a week by a group of 4 including myself, this project is pure Ruby.
 
-#### Werewolves Game: [front-end repo](https://github.com/harrywynnwill/werewolves_frontend), [back-end repo](https://github.com/elibar-uk/werewolves_backend)
+### Werewolves Game: [front-end repo](https://github.com/harrywynnwill/werewolves_frontend), [back-end repo](https://github.com/elibar-uk/werewolves_backend)
 
-Built over two weeks by a group of four, this project is a Mobile app (iOS and Android) for Werewolves, an extremely popular roleplaying game in Makers Academy. Fairly logic-heavy, this [video](https://vimeo.com/101331825) gives a basic summary of the rules.
+Built over two weeks by a group of four, this project is a Mobile app (iOS and Android) for Werewolves, an extremely popular roleplaying game in Makers Academy. Fairly logic-heavy, this [video](https://vimeo.com/101331825) gives a basic summary of the rules. The project uses JSON to pass unique user information from the AngularJS/Ionic front-end to the Rails API back-end and PostgreSQL Database.
 
 #### Technologies used:
+* JSON
 * Rails API
 * PostgreSQL database
 * AngularJS
 * Ionic
 
-#### VoiceAlarm
+### What's the weather?
+
+A project that I built to familiarize myself with JavaScript, JSON and jQuery and focusing on front-end, interactive web pages and alternatives to 'raw' JavaScript. The project utilizes the jQuery library to manipulate the Document Object Model along with a jQuery AJAX call to the Open Weather Map API to get weather information about specific cities to display to the user.
+
+#### Technologies used:
+* JavaScript
+* jQuery
+* JSON
+* AJAX
+
+### VoiceAlarm
 
 VoiceAlarm is my current hobby project in progress - it is a mobile app that aims to wake users up in the morning with prerecorded voice notes and reminders. It stems from my desire to build, experience and learn as much as I can and keep my skills honed whilst also creating something that I'd be more than happy to use myself.
 
@@ -54,6 +65,23 @@ Having worked in service to fund my travels across five different continents, be
 
 **Previous Experience:** Firefighting is a huge part of the service industry. Being the only experienced Server on the floor until closing, and having to deal with double-bookings, customer complaints and huge dinner rushes has taught me to keep a cool head in the face of adversity.
 
+#### Technical Skills
+
+**Programming Languages/Tools:** JavaScript, HTML, CSS, PostgreSQL, JSON, Ruby, bash
+
+**Frameworks/Libraries:** jQuery, AngularJS, Ruby on Rails, Node.js
+
+**Software:** Microsoft Office, Terminal (Bash, zsh), Adobe Photoshop
+
+**Other:** Git/Github, Model-View-Controller (MVC) Architectural pattern (in Sinatra, Rails and Angular)
+
+**I'm always looking to learn new things, and I'm currently in the process of teaching myself:**
+* ASP.NET
+* C#
+* Visual basic
+* Razor
+* PHP
+
 ### Education
 
 #### [Makers Academy](http://www.makersacademy.com) (April 2016 to July 2016)
@@ -66,7 +94,7 @@ Valuable skills I gained:
 
 Languages and frameworks studied:
 * Ruby and Rails
-* Javascript, Node.js and AngularJS
+* JavaScript, Node.js and AngularJS
 * Rspec, Jasmine, Capybara, Karma, Protractor
 * PSQL, ActiveRecord
 * HTML, CSS
