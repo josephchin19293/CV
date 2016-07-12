@@ -26,13 +26,14 @@ Built over two weeks by a group of four, this project is a Mobile app (iOS and A
 
 ### What's the weather?
 
-A project that I built to familiarize myself with JavaScript, JSON and jQuery and focusing on front-end, interactive web pages and alternatives to 'raw' JavaScript. The project utilizes the jQuery library to manipulate the Document Object Model along with a jQuery AJAX call to the Open Weather Map API to get weather information about specific cities to display to the user.
+A project that I built to familiarize myself with JavaScript, JSON and jQuery focusing on front-end, interactive web pages and alternatives to 'raw' JavaScript. The project utilizes the jQuery library to manipulate the Document Object Model along with a jQuery AJAX call to the Open Weather Map API to get weather information about specific cities to display to the user.
 
 #### Technologies used:
 * JavaScript
 * jQuery
 * JSON
 * AJAX
+* Open Weather Map API
 
 ### VoiceAlarm
 
