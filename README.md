@@ -2,7 +2,7 @@
 
 [My Projects](#my-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I am an enthusiastic Junior Developer with a sharp mind and an insatiable hunger to never stop learning. As a Makers Academy and UKC Computer Science graduate, I really enjoy solving problems alongside my peers; but more than that I would love to collaborate with people using creative and functional processes to sculpt and build clean test-driven code with long lasting effects on the real world! I'm looking to open my first (and certainly not my last) door into the tech industry as a developer working within a lively team that I can contribute to and learn from in equal measure.
+I am an enthusiastic Developer with a sharp mind and an insatiable hunger to never stop learning. As a Makers Academy and UKC Computer Science graduate, I really enjoy solving problems alongside my peers; but more than that I would love to collaborate with people using creative and functional processes to sculpt and build clean test-driven code with long lasting effects on the real world! I'm looking to open my first (and certainly not my last) door into the tech industry as a developer working within a lively team that I can contribute to and learn from in equal measure.
 
 
 ### My Projects
