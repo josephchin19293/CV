@@ -7,12 +7,13 @@ I am an enthusiastic Junior Developer with a sharp mind and an insatiable hunger
 
 ### My Projects
 
-### Cleanbot: [repo]()
+### Cleanbot: [repo](https://github.com/oyDogan/Cleanbot)
 
 Cleanbot is an Alexa skill built by myself and a couple of friends that works alongside a LEGO device used to pick up objects in a room, totally hands free. It was a year-long project that combines a number of technologies to help Amazon's Alexa Natural Language Processing to convert voice commands into instructions for our LEGO bot.
 
 #### Technologies used:
 * Python (mainly)
+* Node.js
 * Amazon Dev Console
 * Amazon Skills Kit
 * Flask-ask
@@ -87,6 +88,7 @@ Having worked in service to fund my travels across five different continents, be
 * ASP.NET
 * Visual basic
 * PHP
+* React
 
 ### Education
 
