@@ -21,7 +21,7 @@ Cleanbot is an Alexa skill built by myself and a couple of friends that works al
 * Ngrok
 * Lego Digital Designer
 
-An extension of this project which the group is currently working on is Deep Learning and Object recognition so that our Cleanbot device could have the capabilities to autonomously navigate a room collecting certain objects from the floor.
+An extension of this project which the group is currently working on is Deep Learning and Object recognition (using OpenCV) so that our Cleanbot device could have the capabilities to autonomously navigate a room collecting certain objects from the floor.
 
 ### Rails_cleaner: [repo](https://github.com/josephchin19293/rails_cleaner)
 
