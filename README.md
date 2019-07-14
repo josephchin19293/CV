@@ -96,7 +96,7 @@ Having worked in service to fund my travels across five different continents, be
 
 #### [Makers Academy](http://www.makersacademy.com) (April 2016 to July 2016)
 
-After working through several free online coding courses and engaging my interests, I found that I am very passionate about code. I looked for the best bootcamps and courses in Chicago, New York and London before coming across Makers Academy in London earlier this year. 16 weeks later I am more passionate than ever and in possession of a number of core best-practices to write test-driven object-oriented code.
+After working through several free online coding courses and engaging my interests, I found that I was (and am) very passionate about code. I looked for the best bootcamps and courses in Chicago, New York and London before coming across Makers Academy in London earlier this year. 16 weeks later I was more passionate than ever and in possession of a number of core best-practices to write test-driven object-oriented code.
 
 Valuable skills I gained:
 * Best practices in software craftsmanship: OOP, TDD, SOLID, MVC
